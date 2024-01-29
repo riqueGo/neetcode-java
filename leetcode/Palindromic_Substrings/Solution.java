@@ -1,7 +1,5 @@
 package leetcode.Palindromic_Substrings;
 
-import java.util.ArrayList;
-
 public class Solution {
 
     public static void main(String[] args) {
